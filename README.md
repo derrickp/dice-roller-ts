@@ -1,0 +1,1 @@
+A simple page that rolls a dice.
